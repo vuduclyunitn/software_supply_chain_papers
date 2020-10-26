@@ -10,8 +10,8 @@ This repository contains a list of papers about software supply chain
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ResearchGate](https://www.researchgate.net/profile/Duc_Ly_Vu/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem/links/5f1206884585151299a367ff/Typosquatting-and-Combosquatting-Attacks-on-the-Python-Ecosystem.pdf)). 2020.
 - Small world with high risks: A study of security threats in the npm ecosystem (link [Usenix](https://www.usenix.org/conference/usenixsecurity19/presentation/zimmerman)). 2019.
 - BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain (link [atlanticcouncil](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)). 2020.
-- A Look In the Mirror: Attacks on Package Managers (link [acm](https://dl.acm.org/doi/abs/10.1145/1455770.1455841))
-- in-toto: Providing farm-to-table guarantees for bits and bytes (link [usenix](https://www.usenix.org/system/files/sec19-torres-arias.pdf))
+- A Look In the Mirror: Attacks on Package Managers (link [acm](https://dl.acm.org/doi/abs/10.1145/1455770.1455841)). 2008.
+- in-toto: Providing farm-to-table guarantees for bits and bytes (link [usenix](https://www.usenix.org/system/files/sec19-torres-arias.pdf)). 2019.
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
