@@ -19,5 +19,6 @@ This repository contains a list of papers about software supply chain
 - Cyber Summit 2020: Security in the Software Supply Chain (link: [youtube](https://www.youtube.com/watch?v=S_8XvXicoMc))
 
 ## Dataset
+- [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
 
 ## Real-world attacks
