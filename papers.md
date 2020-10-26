@@ -12,6 +12,7 @@ This repository contains a list of papers about software supply chain
 - BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain (link [atlanticcouncil](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)). 2020.
 - A Look In the Mirror: Attacks on Package Managers (link [acm](https://dl.acm.org/doi/abs/10.1145/1455770.1455841)). 2008.
 - in-toto: Providing farm-to-table guarantees for bits and bytes (link [usenix](https://www.usenix.org/system/files/sec19-torres-arias.pdf)). 2019.
+- Software Distribution Transparency and Auditability (link [archive](https://arxiv.org/abs/1711.07278)). 2017.
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
