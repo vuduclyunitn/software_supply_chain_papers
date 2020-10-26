@@ -14,3 +14,4 @@ This repository contains a list of papers about software supply chain
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
 - Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks (link: [youtube](https://www.youtube.com/watch?v=JZMrzJ1bY3E))
 - The Evolution of the Software Supply Chain Attack (link: [youtube](https://www.youtube.com/watch?v=4onCKbtWszQ&t=2s))
+- Learning with ReversingLabs: Protecting Applications from Software Supply Chain Attack Whiteboard (link: [youtube](https://www.youtube.com/watch?v=wHHN0tQDrvs&t=2s))
