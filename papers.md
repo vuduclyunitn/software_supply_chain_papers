@@ -16,7 +16,7 @@ This repository contains a list of papers about software supply chain
 - Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks (link: [youtube](https://www.youtube.com/watch?v=JZMrzJ1bY3E))
 - The Evolution of the Software Supply Chain Attack (link: [youtube](https://www.youtube.com/watch?v=4onCKbtWszQ&t=2s))
 - Learning with ReversingLabs: Protecting Applications from Software Supply Chain Attack Whiteboard (link: [youtube](https://www.youtube.com/watch?v=wHHN0tQDrvs&t=2s))
-- Cyber Summit 2020: Security in the Software Supply Chain
+- Cyber Summit 2020: Security in the Software Supply Chain (link: [youtube](https://www.youtube.com/watch?v=S_8XvXicoMc))
 
 ## Dataset
 
