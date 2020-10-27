@@ -13,6 +13,7 @@ This repository contains a list of papers about software supply chain
 - A Look In the Mirror: Attacks on Package Managers (link [acm](https://dl.acm.org/doi/abs/10.1145/1455770.1455841)). 2008.
 - in-toto: Providing farm-to-table guarantees for bits and bytes (link [usenix](https://www.usenix.org/system/files/sec19-torres-arias.pdf)). 2019.
 - Software Distribution Transparency and Auditability (link [archive](https://arxiv.org/abs/1711.07278)). 2017.
+- Malware in the SGX supply chain: Be careful when signing enclaves! (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200779)). 2020.
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
