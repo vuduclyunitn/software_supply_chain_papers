@@ -18,6 +18,7 @@ This repository contains a list of papers about software supply chain
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
+- Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
