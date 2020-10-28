@@ -27,3 +27,5 @@ This repository contains a list of papers about software supply chain
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
 
 ## Real-world attacks
+
+## Preventions
