@@ -33,4 +33,4 @@ This repository contains a list of papers about software supply chain
 ## Real-world attacks
 
 ## Preventions/Countermeasures
-- Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803))
+- Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
