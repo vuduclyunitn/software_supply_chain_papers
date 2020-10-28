@@ -14,7 +14,10 @@ This repository contains a list of papers about software supply chain
 - in-toto: Providing farm-to-table guarantees for bits and bytes (link [usenix](https://www.usenix.org/system/files/sec19-torres-arias.pdf)). 2019.
 - Software Distribution Transparency and Auditability (link [archive](https://arxiv.org/abs/1711.07278)). 2017.
 - Malware in the SGX supply chain: Be careful when signing enclaves! (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200779)). 2020.
-- Investigating the Reproducbility of NPM packages (link [theis](https://vtechworks.lib.vt.edu/bitstream/handle/10919/98491/Goswami_P_T_2020.pdf?sequence=1&isAllowed=y)). 2020.
+- Investigating the Reproducbility of NPM packages (link [thesis](https://vtechworks.lib.vt.edu/bitstream/handle/10919/98491/Goswami_P_T_2020.pdf?sequence=1&isAllowed=y)). 2020.
+
+## Standards
+- OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
