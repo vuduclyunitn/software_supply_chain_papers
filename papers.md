@@ -7,7 +7,7 @@ This repository contains a list of papers about software supply chain
 - Measuring and preventing supply chain attacks on package managers (link: [archive](https://arxiv.org/abs/2002.01139)). 2020.
 - SpellBound: Defending Against Package Typosquatting (link: [archive](https://arxiv.org/abs/2003.03471)). 2020
 - Security issues in language-based sofware ecosystems (link [archive](https://arxiv.org/abs/1903.02613)). 2019.
-- Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ResearchGate](https://www.researchgate.net/profile/Duc_Ly_Vu/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem/links/5f1206884585151299a367ff/Typosquatting-and-Combosquatting-Attacks-on-the-Python-Ecosystem.pdf)). 2020.
+- Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9229803)). 2020.
 - Small world with high risks: A study of security threats in the npm ecosystem (link [Usenix](https://www.usenix.org/conference/usenixsecurity19/presentation/zimmerman)). 2019.
 - BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain (link [atlanticcouncil](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)). 2020.
 - A Look In the Mirror: Attacks on Package Managers (link [acm](https://dl.acm.org/doi/abs/10.1145/1455770.1455841)). 2008.
