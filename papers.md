@@ -16,6 +16,7 @@ This repository contains a list of papers about software supply chain
 - Malware in the SGX supply chain: Be careful when signing enclaves! (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200779)). 2020.
 - Investigating the Reproducbility of NPM packages (link [thesis](https://vtechworks.lib.vt.edu/bitstream/handle/10919/98491/Goswami_P_T_2020.pdf?sequence=1&isAllowed=y)). 2020.
 - The Dangers of Malicious Modules[medium](https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8)
+- Attacks on Package Managers (link [thesis](https://is.muni.cz/th/y41ft/thesis_final_electronic.pdf))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
