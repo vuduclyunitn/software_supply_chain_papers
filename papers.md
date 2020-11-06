@@ -17,6 +17,7 @@ This repository contains a list of papers about software supply chain
 - Investigating the Reproducbility of NPM packages (link [thesis](https://vtechworks.lib.vt.edu/bitstream/handle/10919/98491/Goswami_P_T_2020.pdf?sequence=1&isAllowed=y)). 2020.
 - The Dangers of Malicious Modules[medium](https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8)
 - Attacks on Package Managers (link [thesis](https://is.muni.cz/th/y41ft/thesis_final_electronic.pdf)). 2019.
+- Poster: Towards Using Source Code Repositories to Identify Software Supply Chain Attacks (link [ACM](https://dl.acm.org/doi/pdf/10.1145/3372297.3420015))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
