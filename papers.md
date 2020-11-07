@@ -18,6 +18,7 @@ This repository contains a list of papers about software supply chain
 - The Dangers of Malicious Modules[medium](https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8)
 - Attacks on Package Managers (link [thesis](https://is.muni.cz/th/y41ft/thesis_final_electronic.pdf)). 2019.
 - Poster: Towards Using Source Code Repositories to Identify Software Supply Chain Attacks (link [ACM](https://dl.acm.org/doi/pdf/10.1145/3372297.3420015))
+- Package mis-management (link [Github](https://github.com/benjaoming/pytosquatting/blob/master/misc/bornhack-talk/slides.pdf))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
