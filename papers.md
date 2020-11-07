@@ -36,9 +36,12 @@ This repository contains a list of papers about software supply chain
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
 - [Bad packages from the pypi repository](https://github.com/hannob/pypi-bad)
 
+
 ## Real-world attacks
 - [Compromised npm Package: event-stream](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502)
 - https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/
+- Pytosquatting (https://pytosquatting.overtag.dk/)
+
 ## Preventions/Countermeasures
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
 - Malware Checks (link [https://warehouse.readthedocs.io/](https://warehouse.readthedocs.io/development/malware-checks.html#malware-checks))
