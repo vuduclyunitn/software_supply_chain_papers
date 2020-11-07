@@ -33,6 +33,7 @@ This repository contains a list of papers about software supply chain
 
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
+- [Bad packages from the pypi repository](https://github.com/hannob/pypi-bad)
 
 ## Real-world attacks
 - [Compromised npm Package: event-stream](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502)
