@@ -20,6 +20,7 @@ This repository contains a list of papers about software supply chain
 - Poster: Towards Using Source Code Repositories to Identify Software Supply Chain Attacks (link [ACM](https://dl.acm.org/doi/pdf/10.1145/3372297.3420015))
 - Package mis-management (link [Github](https://github.com/benjaoming/pytosquatting/blob/master/misc/bornhack-talk/slides.pdf))
 - If You’ve Seen One, You’ve Seen Them All: Leveraging AST Clustering Using MCL to Mimic Expertise to Detect Software Supply Chain Attacks (link [Arxiv](https://arxiv.org/abs/2011.02235))
+- [Look before you pip](https://www.ayrx.me/look-before-you-pip)
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
