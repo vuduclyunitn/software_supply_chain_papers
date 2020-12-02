@@ -45,6 +45,7 @@ This repository contains a list of papers about software supply chain
 - https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/
 - Pytosquatting (https://pytosquatting.overtag.dk/)
 - https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/
+- https://www.zdnet.com/article/malicious-npm-packages-caught-installing-remote-access-trojans/?ftag=COS-05-10aaa0g&taid=5fc7542c9870190001e52f2f&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
 
 ## Preventions/Countermeasures
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
