@@ -21,6 +21,7 @@ This repository contains a list of papers about software supply chain
 - Package mis-management (link [Github](https://github.com/benjaoming/pytosquatting/blob/master/misc/bornhack-talk/slides.pdf))
 - If You’ve Seen One, You’ve Seen Them All: Leveraging AST Clustering Using MCL to Mimic Expertise to Detect Software Supply Chain Attacks (link [Arxiv](https://arxiv.org/abs/2011.02235))
 - [Look before you pip](https://www.ayrx.me/look-before-you-pip)
+- Challenges and Implications of Verifiable Builds for Security-Critical Open-Source Software (link [ACM](https://dl.acm.org/doi/10.1145/2664243.2664288))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
