@@ -22,6 +22,7 @@ This repository contains a list of papers about software supply chain
 - If You’ve Seen One, You’ve Seen Them All: Leveraging AST Clustering Using MCL to Mimic Expertise to Detect Software Supply Chain Attacks (link [Arxiv](https://arxiv.org/abs/2011.02235))
 - [Look before you pip](https://www.ayrx.me/look-before-you-pip)
 - Challenges and Implications of Verifiable Builds for Security-Critical Open-Source Software (link [ACM](https://dl.acm.org/doi/10.1145/2664243.2664288))
+- Nearly 18,000 SolarWinds Customers Installed Backdoored Software (link[thehackernews](https://thehackernews.com/2020/12/nearly-18000-solarwinds-customers.html?fbclid=IwAR3PMg4kHY2tdSSYZmz38GC28vzAMibzgPpRmsvGva7axHepWfyA20sd8ZA))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
