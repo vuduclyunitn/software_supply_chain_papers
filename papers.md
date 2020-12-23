@@ -37,6 +37,7 @@ This repository contains a list of papers about software supply chain
 - Cyber Summit 2020: Security in the Software Supply Chain (link: [youtube](https://www.youtube.com/watch?v=S_8XvXicoMc))
 - Developing a Security Mindset: Practical Lessons for Pythonistas  (link: [youtube](https://www.youtube.com/watch?v=MuSjyBF0Pac&ab_channel=PyTexas))
 - JavaScript Supply Chain Security - Adam Baldwin (link : [youtube](https://www.youtube.com/watch?v=HDo2iOlkbyc&ab_channel=LocoMocoSec%3AHawaiiProductSecurityConference))
+- Collaborating to Improve Open Source Security: How the Ecosystem Is Stepping Up (link [youtube](https://www.youtube.com/watch?v=tHwLCDrs1zQ&feature=youtu.be&ab_channel=RSAConference))
 
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
