@@ -40,6 +40,7 @@ This repository contains a list of papers about software supply chain
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
 - [Bad packages from the pypi repository](https://github.com/hannob/pypi-bad)
+- [software-supply-chain-compromises (IQTLabs)](https://github.com/IQTLabs/software-supply-chain-compromises)
 
 
 ## Real-world attacks
