@@ -25,6 +25,8 @@ This repository contains a list of papers about software supply chain
 - Nearly 18,000 SolarWinds Customers Installed Backdoored Software (link[thehackernews](https://thehackernews.com/2020/12/nearly-18000-solarwinds-customers.html?fbclid=IwAR3PMg4kHY2tdSSYZmz38GC28vzAMibzgPpRmsvGva7axHepWfyA20sd8ZA))
 - For Good Measure Counting Broken Links: A Quant’s View of Software Supply Chain Security (link [Usenix](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf))
 - What is typosquatting and how typosquatting attacks are responsible for malicious modules in npm (link [snyk.io](https://snyk.io/blog/typosquatting-attacks/))
+- Software Transparency: Part 1
+(link [blog.azuki.vip](https://blog.azuki.vip/software-transparency/))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
