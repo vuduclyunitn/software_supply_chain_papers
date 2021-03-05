@@ -43,6 +43,8 @@ This repository contains a list of papers about software supply chain
 - Collaborating to Improve Open Source Security: How the Ecosystem Is Stepping Up (link [youtube](https://www.youtube.com/watch?v=tHwLCDrs1zQ&feature=youtu.be&ab_channel=RSAConference))
 - NDSS 2021 Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages (link [youtube](https://www.youtube.com/watch?v=WM6S5paxueA&ab_channel=NDSSSymposium))
 - NDSS 2021 Day 2 Keynote: Oversupplied: The Solar Winds attack (link [youtube](https://www.youtube.com/watch?v=58ZQgARtSQ4&ab_channel=NDSSSymposium))
+- How to Avoid the ‘Dependency Confusion’ Software Supply Chain Hack
+(link [sonatype](https://play.sonatype.com/watch/uawNU5vMKMFco4sPHJDFn5?utm_campaign=Q1%202021%3A%20International%20Dependency%20Confusion%20Webinar&utm_medium=email&_hsmi=114288656&_hsenc=p2ANqtz--JWLQAuknODp6XW2zfuD5LLb54RoPi3IvoB-oF1o9PrQeMwo0zWEdTJ5YblzSaltzV7mCZO1YoXLU_UhYrw55cWiaL6Q&utm_content=114288656&utm_source=hs_email))
 
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
