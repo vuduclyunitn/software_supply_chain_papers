@@ -27,6 +27,7 @@ This repository contains a list of papers about software supply chain
 - What is typosquatting and how typosquatting attacks are responsible for malicious modules in npm (link [snyk.io](https://snyk.io/blog/typosquatting-attacks/))
 - Software Transparency: Part 1
 (link [blog.azuki.vip](https://blog.azuki.vip/software-transparency/))
+- Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub (link [arxiv.org](https://arxiv.org/abs/2103.03846))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
