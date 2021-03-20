@@ -28,6 +28,7 @@ This repository contains a list of papers about software supply chain
 - Software Transparency: Part 1
 (link [blog.azuki.vip](https://blog.azuki.vip/software-transparency/))
 - Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub (link [arxiv.org](https://arxiv.org/abs/2103.03846))
+- I Know What You Imported Last Summer: A study of security threats in the Python ecosystem (link [arxiv.org](https://arxiv.org/abs/2102.06301))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
