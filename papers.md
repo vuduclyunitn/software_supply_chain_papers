@@ -50,6 +50,7 @@ This repository contains a list of papers about software supply chain
 - How to Avoid the ‘Dependency Confusion’ Software Supply Chain Hack
 (link [sonatype](https://play.sonatype.com/watch/uawNU5vMKMFco4sPHJDFn5?utm_campaign=Q1%202021%3A%20International%20Dependency%20Confusion%20Webinar&utm_medium=email&_hsmi=114288656&_hsenc=p2ANqtz--JWLQAuknODp6XW2zfuD5LLb54RoPi3IvoB-oF1o9PrQeMwo0zWEdTJ5YblzSaltzV7mCZO1YoXLU_UhYrw55cWiaL6Q&utm_content=114288656&utm_source=hs_email))
 - USENIX Enigma 2021 - Breaking Trust – Shades of Crisis Across an Insecure Software Supply Chain (link [youtube](https://www.youtube.com/watch?v=V-i1v5JvwJ4&t=1215s&ab_channel=USENIXEnigmaConference))
+- Perspectives on the SolarWinds Incident (linke [IEEE](https://www.computer.org/csdl/magazine/sp/2021/02/09382367/1saZVPHhZew))
 
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
