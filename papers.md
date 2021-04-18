@@ -31,7 +31,7 @@ This repository contains a list of papers about software supply chain
 - I Know What You Imported Last Summer: A study of security threats in the Python ecosystem (link [arxiv.org](https://arxiv.org/abs/2102.06301))
 - PHP's Git server hacked to add backdoors to PHP source code (link [bleepingcomputer](https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/))
 - Introducing sigstore: Easy Code Signing & Verification for Supply Chain Integrity (link [googleblog](https://security.googleblog.com/2021/03/introducing-sigstore-easy-code-signing.html))
-
+- Reproducible Builds: Increasing the Integrity of Software Supply Chains (link [arxiv.org](https://arxiv.org/pdf/2104.06020.pdf))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
