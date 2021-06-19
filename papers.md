@@ -32,7 +32,8 @@ This repository contains a list of papers about software supply chain
 - PHP's Git server hacked to add backdoors to PHP source code (link [bleepingcomputer](https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/))
 - Introducing sigstore: Easy Code Signing & Verification for Supply Chain Integrity (link [googleblog](https://security.googleblog.com/2021/03/introducing-sigstore-easy-code-signing.html))
 - Reproducible Builds: Increasing the Integrity of Software Supply Chains (link [arxiv.org](https://arxiv.org/pdf/2104.06020.pdf))
-
+- LastPyMile: Identifying the Discrepancy between Sources and Packages. (link [securitylab.disi.unitn.it](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:esecfse2021.pdf))
+- Introducing SLSA, an End-to-End Framework for Supply Chain Integrity. (link [https://security.googleblog.com/ (https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html))
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
@@ -53,6 +54,8 @@ This repository contains a list of papers about software supply chain
 - USENIX Enigma 2021 - Breaking Trust – Shades of Crisis Across an Insecure Software Supply Chain (link [youtube](https://www.youtube.com/watch?v=V-i1v5JvwJ4&t=1215s&ab_channel=USENIXEnigmaConference))
 - Perspectives on the SolarWinds Incident (link [IEEE](https://www.computer.org/csdl/magazine/sp/2021/02/09382367/1saZVPHhZew))
 - SolarWinds and the Challenges of Patching: Can We Ever Stop Dancing With the Devil? (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382358))
+- Are we forever doomed to software supply chain security? (link [Youtube](https://www.youtube.com/watch?v=qzpnplMu8E4&ab_channel=Snyk))
+-  Secure Software Supply Chains for Python (link [Youtube] (https://www.youtube.com/watch?v=VWWgkF-0cDQ&ab_channel=PyConUS))
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
 - [Bad packages from the pypi repository](https://github.com/hannob/pypi-bad)
