@@ -34,11 +34,12 @@ This repository contains a list of papers about software supply chain
 - Reproducible Builds: Increasing the Integrity of Software Supply Chains (link [arxiv.org](https://arxiv.org/pdf/2104.06020.pdf))
 - LastPyMile: Identifying the Discrepancy between Sources and Packages. (link [securitylab.disi.unitn.it](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:esecfse2021.pdf))
 - Introducing SLSA, an End-to-End Framework for Supply Chain Integrity. (link [https://security.googleblog.com/ (https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html))
+- Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
-- Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
-- LastPyMile: Identifying the Discrepancy between Sources and Packages (link: [ResearchGate](https://www.researchgate.net/publication/352546142_LastPyMile_Identifying_the_Discrepancy_between_Sources_and_Packages))
+
+
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
