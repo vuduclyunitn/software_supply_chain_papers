@@ -37,6 +37,8 @@ This repository contains a list of papers about software supply chain
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
+- Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
+- LastPyMile: Identifying the Discrepancy between Sources and Packages (link: [ResearchGate](https://www.researchgate.net/publication/352546142_LastPyMile_Identifying_the_Discrepancy_between_Sources_and_Packages))
 
 ## Talks
 - DEVELOPERS AS A MALWARE DISTRIBUTION VEHICLE (link: [vimeo](https://vimeo.com/287728855))
