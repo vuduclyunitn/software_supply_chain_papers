@@ -35,9 +35,12 @@ This repository contains a list of papers about software supply chain
 - LastPyMile: Identifying the Discrepancy between Sources and Packages. (link [securitylab.disi.unitn.it](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:esecfse2021.pdf))
 - Introducing SLSA, an End-to-End Framework for Supply Chain Integrity. (link [https://security.googleblog.com/ (https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html))
 - Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
+- Securing the open source supply chain by scanning for package registry credentials (link [github.blog](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/))
+
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
+
 
 
 
