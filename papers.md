@@ -37,6 +37,7 @@ This repository contains a list of papers about software supply chain
 - Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
 - Securing the open source supply chain by scanning for package registry credentials (link [github.blog](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/))
 - Software Supply Chain Angriffe (link [bonndoc.ulb.uni-bonn.de](https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/9325/6386.pdf?sequence=1))
+- NPM fixes private package names leak, serious authorization bug (linke [https://www.bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/npm-fixes-private-package-names-leak-serious-authorization-bug/))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
