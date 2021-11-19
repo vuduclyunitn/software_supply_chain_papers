@@ -39,6 +39,7 @@ This repository contains a list of papers about software supply chain
 - Software Supply Chain Angriffe (link [bonndoc.ulb.uni-bonn.de](https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/9325/6386.pdf?sequence=1))
 - NPM fixes private package names leak, serious authorization bug (link [https://www.bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/npm-fixes-private-package-names-leak-serious-authorization-bug/))
 - 8 Ways to backdoor a crate in Rust for fun and profit (link [https://kerkour.com](https://kerkour.com/rust-crate-backdoor/))
+- Open-Source Software Supply Chain Attacks Attack Tree Visualization and Survey (link [https://survey.opensourceunchained.eu](https://survey.opensourceunchained.eu/index.html))
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
