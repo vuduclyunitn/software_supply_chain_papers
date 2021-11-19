@@ -78,6 +78,7 @@ This repository contains a list of papers about software supply chain
 - Pytosquatting (https://pytosquatting.overtag.dk/)
 - https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/
 - https://www.zdnet.com/article/malicious-npm-packages-caught-installing-remote-access-trojans/?ftag=COS-05-10aaa0g&taid=5fc7542c9870190001e52f2f&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+- 11 Malicious PyPI Python Libraries Caught Stealing Discord Tokens and Installing Shells (link [https://thehackernews.com](https://thehackernews.com/2021/11/11-malicious-pypi-python-libraries.html?fbclid=IwAR0RWW41nGbaTAibWkiDwB4ZHJ45aZh9-CzPoz9za9uxaulGEOsD6Or7FEU))
 
 ## Preventions/Countermeasures
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
