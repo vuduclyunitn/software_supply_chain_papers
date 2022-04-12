@@ -44,7 +44,7 @@ This repository contains a list of papers about software supply chain
 - Taxonomy of Attacks on Open-Source Software Supply Chains [Arxiv](https://arxiv.org/abs/2204.04008)
 - Practical Automated Detection of Malicious npm Packages [Arxiv](https://arxiv.org/abs/2202.13953)
 - Malicious Packages Lurking in User-Friendly Python Package Index [IEEE](https://ieeexplore.ieee.org/abstract/document/9724451)
-- Malicious Packages Lurking in User-Friendly Python Package Index [Arxiv](https://arxiv.org/abs/2108.09576)
+- A Survey on Common Threats in npm and PyPi Registries [Arxiv](https://arxiv.org/abs/2108.09576)
 
 
 
