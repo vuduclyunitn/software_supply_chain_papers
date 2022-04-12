@@ -41,7 +41,7 @@ This repository contains a list of papers about software supply chain
 - 8 Ways to backdoor a crate in Rust for fun and profit (link [https://kerkour.com](https://kerkour.com/rust-crate-backdoor/))
 - Open-Source Software Supply Chain Attacks Attack Tree Visualization and Survey (link [https://survey.opensourceunchained.eu](https://survey.opensourceunchained.eu/index.html))
 - [Hackers Target Real Estate Websites with Skimmer in Latest Supply Chain Attack](https://thehackernews.com/2022/01/hackers-target-real-estate-websites.html?fbclid=IwAR1ZYwBl_4Bn9UiStDaNEpUPJkYJC8QWACMD2a7x3pcMOfErwQOl9EGbKdI)
-- [Taxonomy of Attacks on Open-Source Software Supply Chains] (https://arxiv.org/abs/2204.04008)
+- Taxonomy of Attacks on Open-Source Software Supply Chains [https://arxiv.org/abs/2204.04008](Arxiv)
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
