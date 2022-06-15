@@ -46,6 +46,8 @@ This repository contains a list of papers about software supply chain
 - Malicious Packages Lurking in User-Friendly Python Package Index [IEEE](https://ieeexplore.ieee.org/abstract/document/9724451)
 - A Survey on Common Threats in npm and PyPi Registries [Arxiv](https://arxiv.org/abs/2108.09576)
 - Towards Understanding and Securing the OSS Supply Chain [PhD thesis](http://www.lyvu.me/papers/vu-thesis-final.pdf)
+- What are Weak Links in the npm Supply Chain? [ICSE-SEIP 2022](https://arxiv.org/abs/2112.10165)
+
 
 
 ## Standards
