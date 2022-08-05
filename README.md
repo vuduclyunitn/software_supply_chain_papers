@@ -47,7 +47,7 @@ This repository contains a list of papers about software supply chain
 - A Survey on Common Threats in npm and PyPi Registries [Arxiv](https://arxiv.org/abs/2108.09576)
 - Towards Understanding and Securing the OSS Supply Chain [PhD thesis](http://www.lyvu.me/papers/vu-thesis-final.pdf)
 - What are Weak Links in the npm Supply Chain? [ICSE-SEIP 2022](https://arxiv.org/abs/2112.10165)
-
+- A massive widespread malware attack on Github [Twitter](https://twitter.com/stephenlacy/status/1554697077430505473)
 
 
 ## Standards
