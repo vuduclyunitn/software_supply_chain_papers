@@ -48,7 +48,7 @@ This repository contains a list of papers about software supply chain
 - Towards Understanding and Securing the OSS Supply Chain [PhD thesis](http://www.lyvu.me/papers/vu-thesis-final.pdf)
 - What are Weak Links in the npm Supply Chain? [ICSE-SEIP 2022](https://arxiv.org/abs/2112.10165)
 - A massive widespread malware attack on Github [Twitter](https://twitter.com/stephenlacy/status/1554697077430505473)
-
+- Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems [thehackernews](https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html)
 
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
