@@ -33,7 +33,7 @@ This repository contains a list of papers about software supply chain
 - Introducing sigstore: Easy Code Signing & Verification for Supply Chain Integrity (link [googleblog](https://security.googleblog.com/2021/03/introducing-sigstore-easy-code-signing.html))
 - Reproducible Builds: Increasing the Integrity of Software Supply Chains (link [arxiv.org](https://arxiv.org/pdf/2104.06020.pdf))
 - LastPyMile: Identifying the Discrepancy between Sources and Packages. (link [securitylab.disi.unitn.it](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:esecfse2021.pdf))
-- Introducing SLSA, an End-to-End Framework for Supply Chain Integrity. (link [https://security.googleblog.com/ (https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html))
+- Introducing SLSA, an End-to-End Framework for Supply Chain Integrity. (link [https://security.googleblog.com/](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html))
 - Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware (link [thehackernews](https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html))
 - Securing the open source supply chain by scanning for package registry credentials (link [github.blog](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/))
 - Software Supply Chain Angriffe (link [bonndoc.ulb.uni-bonn.de](https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/9325/6386.pdf?sequence=1))
@@ -72,7 +72,7 @@ This repository contains a list of papers about software supply chain
 - Perspectives on the SolarWinds Incident (link [IEEE](https://www.computer.org/csdl/magazine/sp/2021/02/09382367/1saZVPHhZew))
 - SolarWinds and the Challenges of Patching: Can We Ever Stop Dancing With the Devil? (link [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9382358))
 - Are we forever doomed to software supply chain security? (link [Youtube](https://www.youtube.com/watch?v=qzpnplMu8E4&ab_channel=Snyk))
--  Secure Software Supply Chains for Python (link [Youtube] (https://www.youtube.com/watch?v=VWWgkF-0cDQ&ab_channel=PyConUS))
+-  Secure Software Supply Chains for Python (link [Youtube](https://www.youtube.com/watch?v=VWWgkF-0cDQ&ab_channel=PyConUS))
 
 ## Dataset
 - [Backstabbers-Knife-Collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/)
