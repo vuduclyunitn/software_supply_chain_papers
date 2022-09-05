@@ -49,7 +49,7 @@ This repository contains a list of papers about software supply chain
 - What are Weak Links in the npm Supply Chain? [ICSE-SEIP 2022](https://arxiv.org/abs/2112.10165)
 - A massive widespread malware attack on Github [Twitter](https://twitter.com/stephenlacy/status/1554697077430505473)
 - Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems [thehackernews](https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html)
-
+- Taming Bad Python Packages: Assessing Python Malware Detectors with a Benchmark Dataset [chainguard.dev](https://blog.chainguard.dev/taming-python-malware-scanners/)
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
