@@ -97,3 +97,6 @@ This repository contains a list of papers about software supply chain
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
 - Malware Checks (link [https://warehouse.readthedocs.io/](https://warehouse.readthedocs.io/development/malware-checks.html#malware-checks))
 - GitHub will require 2FA for some NPM registry users (link [https://www.infoworld.com](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html))
+
+## Conferences
+- [Proceedings of the 2022 ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses](https://dl.acm.org/doi/proceedings/10.1145/3560835)
