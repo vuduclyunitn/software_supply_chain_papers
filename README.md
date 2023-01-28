@@ -91,6 +91,7 @@ This repository contains a list of papers about software supply chain
 - 11 Malicious PyPI Python Libraries Caught Stealing Discord Tokens and Installing Shells (link [https://thehackernews.com](https://thehackernews.com/2021/11/11-malicious-pypi-python-libraries.html?fbclid=IwAR0RWW41nGbaTAibWkiDwB4ZHJ45aZh9-CzPoz9za9uxaulGEOsD6Or7FEU))
 - Dependency Confusion attacks [medium.com](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 - Breach of software maker used to backdoor ecommerce server [https://arstechnica.com/](https://arstechnica.com/information-technology/2022/09/breach-of-software-maker-used-to-backdoor-as-many-as-200000-servers/)
+- Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps” [www.fortinet.com](https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps)
 
 ## Preventions/Countermeasures
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
