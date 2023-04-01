@@ -92,11 +92,12 @@ This repository contains a list of papers about software supply chain
 - Dependency Confusion attacks [medium.com](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 - Breach of software maker used to backdoor ecommerce server [https://arstechnica.com/](https://arstechnica.com/information-technology/2022/09/breach-of-software-maker-used-to-backdoor-as-many-as-200000-servers/)
 - Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps” [www.fortinet.com](https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps)
-
+- 3CX Supply Chain Attack — Here's What We Know So Far [https://thehackernews.com](https://thehackernews.com/2023/03/3cx-supply-chain-attack-heres-what-we.html?fbclid=IwAR1Rp2rofwNnNvVW1tJw0HB1eVa4AnDWjZ0CAc4lc84rm5wyiSuyfoauZLk)
 ## Preventions/Countermeasures
 - Typosquatting and Combosquatting Attacks on the Python Ecosystem (link [ieee](https://ieeexplore.ieee.org/abstract/document/9229803)). 2020.
 - Malware Checks (link [https://warehouse.readthedocs.io/](https://warehouse.readthedocs.io/development/malware-checks.html#malware-checks))
 - GitHub will require 2FA for some NPM registry users (link [https://www.infoworld.com](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html))
+
 
 ## Conferences
 - [Proceedings of the 2022 ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses](https://dl.acm.org/doi/proceedings/10.1145/3560835)
