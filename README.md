@@ -51,7 +51,7 @@ This repository contains a list of papers about software supply chain
 - Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems [thehackernews](https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html)
 - Taming Bad Python Packages: Assessing Python Malware Detectors with a Benchmark Dataset [chainguard.dev](https://blog.chainguard.dev/taming-python-malware-scanners/)
 - A Benchmark Comparison of Python Malware Detection Approaches [arxiv.org](https://arxiv.org/abs/2209.13288)
-
+- Hijacking S3 Buckets: New Attack Technique Exploited in the Wild by Supply Chain Attackers [checkmarx.com](https://checkmarx.com/blog/hijacking-s3-buckets-new-attack-technique-exploited-in-the-wild-by-supply-chain-attackers/)
 ## Standards
 - OWASP Software Component Verification Standard (OWASP SCVS) (link [owasp.org](https://owasp.org/www-project-software-component-verification-standard/))
 - Reproducable Builds (link [https://reproducible-builds.org/](https://reproducible-builds.org/))
