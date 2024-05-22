@@ -85,6 +85,7 @@ This repository contains a list of papers about software supply chain
 - [DataDog (PyPI samples)](https://github.com/DataDog/security-labs-pocs/commit/33b827eafd40c15c862ba035c9ce9ec25471c4dd)
 
 ## Real-world attacks
+- FAQ on the xz-utils backdoor (CVE-2024-3094) [Github](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
 - [Compromised npm Package: event-stream](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502)
 - https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/
 - Pytosquatting (https://pytosquatting.overtag.dk/)
